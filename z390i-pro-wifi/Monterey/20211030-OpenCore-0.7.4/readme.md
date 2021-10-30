@@ -2,6 +2,10 @@
 
 https://github.com/acidanthera/BrcmPatchRAM
 
-## Benchmark
+## Benchmark CPU
 
 https://browser.geekbench.com/v5/cpu/10715246
+
+
+## Benchmark GPU
+
